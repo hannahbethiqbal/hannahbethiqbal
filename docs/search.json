@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Thanks for being here!",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nThanks for being here!\nI’m Hannah, and I am a Master of Science student in Biostatistics at Case Western Reserve University, where I am building a strong foundation in statistical modeling, data analysis, and research methodology. My path to biostatistics has been shaped by a deep interest in people, health, and scientific inquiry.\nI graduated from Youngstown State University in 2022 with a degree in Anthropology and Public Health. After spending three years working in Human Resources, I realized I wanted to return to the areas that first inspired me in undergrad—health, data, and understanding people through a scientific lens. That decision led me to pursue biostatistics—a field that allows me to combine my passion for understanding people with my interest in healthcare and quantitative methods.\nOutside of my academic work, I love exploring the world with my husband, Hamza. Over the past two years, we’ve visited six countries together, each trip deepening my appreciation for new cultures and global perspectives. I also enjoy film photography, playing piano, cycling and staying active, all of which keep me creative, grounded, and balanced.\nThis website reflects my journey as I continue developing as a scientist, analyst, and lifelong learner.\nPlease feel free to contact me with any inquiries."
-  },
-  {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
     "title": "Curriculum vitae",
@@ -19,5 +12,19 @@
     "title": "Photography",
     "section": "",
     "text": "I use this space to share photos from my travels—places I’ve explored, moments that stood out, and the details that caught my eye. It’s a simple record of where I’ve been and what I’ve seen."
+  },
+  {
+    "objectID": "posts/blog.html",
+    "href": "posts/blog.html",
+    "title": "Reflections on Being a Modern Scientist",
+    "section": "",
+    "text": "One idea from How to Be a Modern Scientist that stuck with me is the emphasis on transparency in research. Scientific work is not just about presenting results, but also about showing the process behind them. Sharing data, code, and analytic decisions makes it easier for others to understand, evaluate, and reproduce the work.\nThis feels especially important in statistics and biostatistics, where small choices can affect conclusions in meaningful ways. Documenting the full workflow, from data cleaning to final models, helps make the work more trustworthy. It also makes it easier to revisit a project later and understand exactly what was done.\nI also liked the idea that scientists today are expected to communicate more openly than in the past. A professional website is a simple example of that. It creates a space to share work, reflect on ideas, and document growth over time in a way that is accessible to others."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thanks for being here!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nThanks for being here!\nI’m Hannah, and I am a Master of Science student in Biostatistics at Case Western Reserve University, where I am building a strong foundation in statistical modeling, data analysis, and research methodology. My path to biostatistics has been shaped by a deep interest in people, health, and scientific inquiry.\nI graduated from Youngstown State University in 2022 with a degree in Anthropology and Public Health. After spending three years working in Human Resources, I realized I wanted to return to the areas that first inspired me in undergrad—health, data, and understanding people through a scientific lens. That decision led me to pursue biostatistics—a field that allows me to combine my passion for understanding people with my interest in healthcare and quantitative methods.\nOutside of my academic work, I love exploring the world with my husband, Hamza. Over the past two years, we’ve visited six countries together, each trip deepening my appreciation for new cultures and global perspectives. I also enjoy film photography, playing piano, cycling and staying active, all of which keep me creative, grounded, and balanced.\nThis website reflects my journey as I continue developing as a scientist, analyst, and lifelong learner.\nPlease feel free to contact me with any inquiries."
   }
 ]
