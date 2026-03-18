@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "I use this space to share photos from my travels—places I’ve explored, moments that stood out, and the details that caught my eye. It’s a simple record of where I’ve been and what I’ve seen."
+  },
+  {
+    "objectID": "posts/blog.html",
+    "href": "posts/blog.html",
+    "title": "Reflections on Being a Modern Scientist",
+    "section": "",
+    "text": "One of the more interesting arguments in Jeff Leek’s How to Be a Modern Scientist is that much of modern scientific work now happens behind the scenes in data and code rather than in the final published results. In many fields, including statistics and biostatistics, research has become increasingly computational. Scientists are not only interpreting results but also building and maintaining complex analytic workflows that turn raw data into meaningful findings.\nWhat struck me about this perspective is that it reframes skills that might once have been considered secondary—like coding practices or project organization—as central parts of doing good science. When analyses involve multiple datasets, scripts, and intermediate outputs, the way a project is structured becomes extremely important. Without clear organization, even the researcher who performed the analysis can struggle to reproduce their own results later. Good project structure, clear documentation, and well-written code therefore become essential tools for maintaining the integrity of the research process.\nThis perspective resonated with me because it reflects what many graduate students actually experience when working on data-driven projects. A large portion of the effort often goes into preparing data, structuring analyses, and making sure everything runs correctly from start to finish. Tools like reproducible documents, version control, and organized project directories make this much easier, not just for sharing work with others but also for keeping track of one’s own analyses over time.\nAnother point the book raises is that these habits ultimately support better science by making research more durable. When work is well organized and computational steps are clearly documented, projects become easier to revisit, extend, and build upon. In that sense, the “modern” part of being a modern scientist is not just about using new tools, but about adopting workflows that recognize how central data and computation have become to scientific discovery."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thanks for being here!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nThanks for being here!\nI’m Hannah, and I am a Master of Science student in Biostatistics at Case Western Reserve University, where I am building a strong foundation in statistical modeling, data analysis, and research methodology. My path to biostatistics has been shaped by a deep interest in people, health, and scientific inquiry.\nI graduated from Youngstown State University in 2022 with a degree in Anthropology and Public Health. After spending three years working in Human Resources, I realized I wanted to return to the areas that first inspired me in undergrad—health, data, and understanding people through a scientific lens. That decision led me to pursue biostatistics—a field that allows me to combine my passion for understanding people with my interest in healthcare and quantitative methods.\nOutside of my academic work, I love exploring the world with my husband, Hamza. Over the past two years, we’ve visited six countries together, each trip deepening my appreciation for new cultures and global perspectives. I also enjoy film photography, playing piano, cycling and staying active, all of which keep me creative, grounded, and balanced.\nThis website reflects my journey as I continue developing as a scientist, analyst, and lifelong learner.\nPlease feel free to contact me with any inquiries."
+  }
+]
